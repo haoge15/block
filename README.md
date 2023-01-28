@@ -58,5 +58,19 @@ onselectstart="event.returnValue=false">
 　　 document.write("<BODY BACKGROUND="+image[number]+">"); 
 
 </Script> 
+<select name=select onchange="javascript:window.open(this.options
+
+[this.selectedIndex].value)"style="color:#333">
+
+<option>----请选择----</option>
+
+<option value="https://www.osuu.net/">趣源社区</option>
+
+<option value="https://www.osuu.net/">趣源社区</option>
+
+<option value="https://www.osuu.net/">趣源社区</option>
+
+</select>
+
 
 
